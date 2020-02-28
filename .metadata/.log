@@ -1713,3 +1713,52 @@ Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
 	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-28 05:07:21.135
+!MESSAGE Preparing classpath changed notification exercise05.1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-28 05:07:21.137
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-28 05:07:21.143
+!MESSAGE classpath=24 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-28 05:07:21.146
+!MESSAGE buffering callback sts4.classpath.kELSuxNX exercise05.1 false 24
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-28 05:07:21.148
+!MESSAGE executing callback sts4.classpath.kELSuxNX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-28 05:07:21.194
+!MESSAGE executing callback sts4.classpath.kELSuxNX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-28 05:07:22.130
+!MESSAGE Preparing classpath changed notification exercise05.1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-28 05:07:22.137
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-28 05:07:22.146
+!MESSAGE classpath=39 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-28 05:07:22.150
+!MESSAGE buffering callback sts4.classpath.kELSuxNX exercise05.1 false 39
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-28 05:07:22.151
+!MESSAGE executing callback sts4.classpath.kELSuxNX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-02-28 05:07:22.178
+!MESSAGE executing callback sts4.classpath.kELSuxNX SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2020-02-28 07:02:34.660
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.reportGet(Unknown Source)
+	at java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at org.springframework.tooling.boot.ls.jdt.LSPTextHover.getHoverInfo(LSPTextHover.java:109)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:165)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
