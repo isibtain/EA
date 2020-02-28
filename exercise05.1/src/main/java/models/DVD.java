@@ -1,5 +1,10 @@
 package models;
 
+import javax.persistence.DiscriminatorValue;
+import javax.persistence.Entity;
+
+@Entity
+@DiscriminatorValue("DVD")
 public class DVD extends Product {
 	
 	private String genre;

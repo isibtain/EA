@@ -26,6 +26,8 @@
 		<mapping class="models.Order" />
 		<mapping class="models.Customer" />
 		<mapping class="models.OrderLine" />
-		
+		<mapping class="models.CD" />
+		<mapping class="models.DVD" />
+		<mapping class="models.Book" />
 	</session-factory>
 </hibernate-configuration>
