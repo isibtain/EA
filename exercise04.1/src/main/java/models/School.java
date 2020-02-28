@@ -1,0 +1,46 @@
+package models;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import javax.persistence.CascadeType;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.MapKey;
+import javax.persistence.OneToMany;
+
+@Entity
+public class School {
+	
+	@Id
+	@GeneratedValue
+	private long id;
+	private String name;
+	@OneToMany(cascade = CascadeType.PERSIST)
+	@MapKey(name = "studentid")
+	private Map<String, Student> studentMap = new HashMap();
+	
+	
+	public School(String name, Map<String, Student> studentMap) {
+		this.name = name;
+		this.studentMap = studentMap;
+	}
+	
+	public School() {
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public Map<String, Student> getStudentMap() {
+		return studentMap;
+	}
+	public void setStudentMap(Map<String, Student> studentMap) {
+		this.studentMap = studentMap;
+	}
+	
+
+}

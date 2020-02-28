@@ -1,0 +1,20 @@
+package models;
+
+import java.util.ArrayList;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+
+import antlr.collections.List;
+
+@Entity
+public class Passenger {
+	
+	@Id
+	@GeneratedValue
+	private long id;
+	private String name;
+	private List<Flight> flights = new ArrayList();
+
+}

@@ -1,0 +1,16 @@
+package models;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+
+@Entity
+public class Student {
+	
+	@Id
+	@GeneratedValue
+	private String studentid;
+	private String firstname;
+	private String lastname;
+
+}

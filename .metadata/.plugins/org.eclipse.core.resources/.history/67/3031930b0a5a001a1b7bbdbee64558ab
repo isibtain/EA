@@ -1,0 +1,18 @@
+package models;
+
+import java.util.Date;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Flight {
+	
+	private long id;
+	private int flightnumber;
+	private String to;
+	private String from;
+	private Date date;
+	
+	
+
+}

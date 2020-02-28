@@ -1,0 +1,79 @@
+package models;
+
+import java.text.DateFormat;
+import java.text.ParseException;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Locale;
+
+import org.hibernate.HibernateException;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
+import org.hibernate.cfg.Configuration;
+import org.hibernate.service.ServiceRegistry;
+
+public class AppStudent {
+
+
+	
+	private static final SessionFactory sessionFactory;
+    private static final ServiceRegistry serviceRegistry;
+
+    static {
+        Configuration configuration = new Configuration();
+        configuration.configure();
+        serviceRegistry = new StandardServiceRegistryBuilder().applySettings(
+                configuration.getProperties()).build();
+        sessionFactory = configuration.buildSessionFactory(serviceRegistry);
+    }
+
+    public static void main(String[] args) throws ParseException {
+        // Hibernate placeholders
+        Session session = null;
+        Transaction tx = null;
+
+        try {
+            session = sessionFactory.openSession();
+            tx = session.beginTransaction();
+            
+            DateFormat df = DateFormat.getDateInstance(DateFormat.SHORT, Locale.US);
+           
+           
+            
+            
+            List<Flight> flights = new ArrayList();
+            List<Flight> HFlights = new ArrayList();
+            Passenger p1 = new Passenger("Hashim",flights);
+            Passenger p2 = new Passenger("Sultan", HFlights);
+            
+            
+            flights.add(new Flight(4,"Karachi","Lahore", df.parse("05/10/1997") ) );
+            flights.add(new Flight(7,"Islamabad","Lahore", df.parse("03/15/2009") ) );
+            flights.add(new Flight(8,"Peshawar","Multan", df.parse("03/07/2004") ) );
+            flights.add(new Flight(9,"Karachi","Lahore", df.parse("08/10/2013") ) );
+            flights.add(new Flight(12,"Karachi","Lahore", df.parse("07/15/2018") ) );
+            
+            HFlights.add(new Flight(77,"Faisalabad","Larkana", df.parse("01/10/2001") ) );
+            HFlights.add(new Flight(437,"Hyderabad","Thatta", df.parse("02/22/2005") ) );
+           
+            session.persist(p1);
+            session.persist(p2);
+
+            tx.commit();
+
+        } catch (HibernateException e) {
+            if (tx != null) {
+                System.err.println("Rolling back: " + e.getMessage());
+                tx.rollback();
+            }
+        } finally {
+            if (session != null) {
+                session.close();
+            }
+        }
+
+}
+
+}

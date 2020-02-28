@@ -1,0 +1,11 @@
+package models;
+
+public class AppStudent {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}
