@@ -19,18 +19,30 @@ public class Car {
 	private String brand;
 	private String year;
 	private double price;
+	@ManyToOne(cascade = CascadeType.PERSIST)
+	private Owner owner;
 	
-	 @ManyToOne(cascade = CascadeType.PERSIST)
-	 private Owner owner;
-	
+	public Owner getOwner() {
+		return owner;
+	}
+
+	public void setOwner(Owner owner) {
+		this.owner = owner;
+	}
+
+	/*
+	 * @ManyToOne(cascade = CascadeType.PERSIST)
+	 * 
+	 * @JoinTable(name = "Car_Customer") private Owner owner;
+	 */
 	public Car() {
 	}
 
-	public Car(String brand, String year, double price, Owner owner) {
+	public Car(String brand, String year, double price) {
 		this.brand = brand;
 		this.year = year;
 		this.price = price;
-		this.owner = owner;
+		/* this.owner = owner; */
 	}
 
 	public void setBrand(String brand) {
@@ -66,9 +78,10 @@ public class Car {
 	}
 
 	
-	  public Owner getOwner() { return owner; }
-	  
-	  public void setOwner(Owner owner) { this.owner = owner; }
-	 
+	/*
+	 * public Owner getOwner() { return owner; }
+	 * 
+	 * public void setOwner(Owner owner) { this.owner = owner; }
+	 */
 
 }

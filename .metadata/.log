@@ -3243,3 +3243,75 @@ java.nio.file.NoSuchFileException: C:\Users\User\Desktop\WAA\Assignments\.metada
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-01 21:27:12.590
 !MESSAGE executing callback sts4.classpath.RudvXFqD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:07:11.992
+!MESSAGE Preparing classpath changed notification exerciseCustomerAddress
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:07:11.995
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:07:12.000
+!MESSAGE classpath=23 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:07:12.003
+!MESSAGE buffering callback sts4.classpath.RudvXFqD exerciseCustomerAddress false 23
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:07:12.004
+!MESSAGE executing callback sts4.classpath.RudvXFqD 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:07:12.015
+!MESSAGE executing callback sts4.classpath.RudvXFqD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:07:13.033
+!MESSAGE Preparing classpath changed notification exerciseCustomerAddress
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:07:13.034
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:07:13.041
+!MESSAGE classpath=38 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:07:13.044
+!MESSAGE buffering callback sts4.classpath.RudvXFqD exerciseCustomerAddress false 38
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:07:13.046
+!MESSAGE executing callback sts4.classpath.RudvXFqD 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:07:13.052
+!MESSAGE executing callback sts4.classpath.RudvXFqD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:29:11.279
+!MESSAGE Preparing classpath changed notification exerciseManyToManyUni
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:29:11.282
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:29:11.287
+!MESSAGE classpath=23 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:29:11.292
+!MESSAGE buffering callback sts4.classpath.RudvXFqD exerciseManyToManyUni false 23
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:29:11.294
+!MESSAGE executing callback sts4.classpath.RudvXFqD 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:29:11.309
+!MESSAGE executing callback sts4.classpath.RudvXFqD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:29:11.774
+!MESSAGE Preparing classpath changed notification exerciseManyToManyUni
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:29:11.777
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:29:11.783
+!MESSAGE classpath=38 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:29:11.788
+!MESSAGE buffering callback sts4.classpath.RudvXFqD exerciseManyToManyUni false 38
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:29:11.790
+!MESSAGE executing callback sts4.classpath.RudvXFqD 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:29:11.796
+!MESSAGE executing callback sts4.classpath.RudvXFqD SUCCESS [done]

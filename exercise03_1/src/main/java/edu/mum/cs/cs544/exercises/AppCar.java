@@ -1,5 +1,6 @@
 package edu.mum.cs.cs544.exercises;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import org.hibernate.HibernateException;
@@ -36,12 +37,24 @@ public class AppCar {
             Owner owner2 = new Owner("Kevin","Multan");
 
             
-            Car car1 = new Car("BMW", "SDA231", 30221.00, owner1 ); 
-            Car car2 = new Car("Mercedes", "HOO100", 4088.00, owner1 );
+            Car car1 = new Car("BMW", "SDA231", 30221.00 ); 
+            Car car2 = new Car("Mercedes", "HOO100", 4088.00);
+            Car car3 = new Car();
+            car3.setBrand("Big");
+            car3.setPrice(53535.535);
+            car3.setYear("2019");
+            car1.setOwner(owner1);
+            car2.setOwner(owner1);
 			
-            session.persist(car1);
-            session.persist(car2);
-
+            
+            List<Car> cars = new ArrayList();
+            cars.add(car1);
+            cars.add(car2);
+            owner1.setCars(cars);
+            
+            session.persist(owner1);
+            session.persist(owner2);
+            
             tx.commit();
 
         } catch (HibernateException e) {
@@ -64,7 +77,7 @@ public class AppCar {
             List<Car> carList = session.createQuery("from Car").list();
             for (Car car : carList) {
                 System.out.println("brand= " + car.getBrand() + ", year= "
-                        + car.getYear() + ", price= " + car.getPrice() + " , Owner = " + car.getOwner().toString() );
+                        + car.getYear() + ", price= " + car.getPrice() );
             }
             tx.commit();
 
