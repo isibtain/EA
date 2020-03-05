@@ -3315,3 +3315,872 @@ java.nio.file.NoSuchFileException: C:\Users\User\Desktop\WAA\Assignments\.metada
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-02 02:29:11.796
 !MESSAGE executing callback sts4.classpath.RudvXFqD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:08.145
+!MESSAGE Preparing classpath changed notification PatientManagement
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:08.166
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:08.174
+!MESSAGE classpath=23 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:08.180
+!MESSAGE buffering callback sts4.classpath.RudvXFqD PatientManagement false 23
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:08.182
+!MESSAGE executing callback sts4.classpath.RudvXFqD 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:09.071
+!MESSAGE executing callback sts4.classpath.RudvXFqD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:13.237
+!MESSAGE Preparing classpath changed notification PatientManagement
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:13.241
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:13.266
+!MESSAGE classpath=38 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:13.273
+!MESSAGE buffering callback sts4.classpath.RudvXFqD PatientManagement false 38
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:13.276
+!MESSAGE executing callback sts4.classpath.RudvXFqD 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:13.292
+!MESSAGE executing callback sts4.classpath.RudvXFqD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:27.226
+!MESSAGE Preparing classpath changed notification PatientManagement
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:27.227
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:27.229
+!MESSAGE buffering callback sts4.classpath.RudvXFqD PatientManagement true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:27.230
+!MESSAGE executing callback sts4.classpath.RudvXFqD 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:27.235
+!MESSAGE executing callback sts4.classpath.RudvXFqD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:47.111
+!MESSAGE Preparing classpath changed notification PatientManagement
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:47.118
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:47.120
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:47.123
+!MESSAGE buffering callback sts4.classpath.RudvXFqD PatientManagement false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:47.124
+!MESSAGE executing callback sts4.classpath.RudvXFqD 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 14:52:47.145
+!MESSAGE executing callback sts4.classpath.RudvXFqD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 17:03:12.637
+!MESSAGE Preparing classpath changed notification PatientManagement
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 17:03:12.639
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 17:03:12.641
+!MESSAGE buffering callback sts4.classpath.RudvXFqD PatientManagement true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 17:03:12.642
+!MESSAGE executing callback sts4.classpath.RudvXFqD 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 17:03:12.646
+!MESSAGE executing callback sts4.classpath.RudvXFqD SUCCESS [done]
+!SESSION 2020-03-03 19:06:33.541 -----------------------------------------------
+eclipse.buildId=4.5.0.201912171052-RELEASE
+java.version=1.8.0_241
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-03-03 19:06:50.570
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2020-03-03 19:07:10.516
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-03-03 19:07:10.516
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@219edc05,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@62f37bfd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-03-03 19:07:21.876
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\User'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2020-03-03 19:08:21.237
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:32.538
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:32.540
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7a79a5d6[org.springframework.tooling.boot.ls:1.14.0.201912170939(id=631)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:32.556
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:32.971
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:34.022
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:34.024
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7a79a5d6[org.springframework.tooling.boot.ls:1.14.0.201912170939(id=631)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:34.025
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:46.871
+!MESSAGE Boot LS startup time from start to initialized: 12843ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:46.961
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.WeHkQWdXisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:46.969
+!MESSAGE subscribing to classpath changes: sts4.classpath.WeHkQWdX isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:46.973
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:46.978
+!MESSAGE subsribers = {sts4.classpath.WeHkQWdX=Send Classpath Notifications(119)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:46.980
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:46.982
+!MESSAGE project afbaf ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:46.983
+!MESSAGE project example00-hibernate-1 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:46.985
+!MESSAGE Preparing classpath changed notification afbaf
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:46.987
+!MESSAGE project exercise02_1 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:46.988
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:46.990
+!MESSAGE project exercise03_1 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:46.992
+!MESSAGE project exercise03_2 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:46.994
+!MESSAGE project exercise04.1 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:46.996
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:46.998
+!MESSAGE project exercise05.1 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:46.999
+!MESSAGE project exercise06.1 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.001
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX afbaf false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.003
+!MESSAGE project exercise07_1 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.005
+!MESSAGE Preparing classpath changed notification example00-hibernate-1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.006
+!MESSAGE project exerciseCustomerAddress ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.008
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.009
+!MESSAGE project exerciseManyToManyUni ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.011
+!MESSAGE project lab-02 ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.013
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.015
+!MESSAGE classpath=38 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.016
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.WeHkQWdX => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.018
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX example00-hibernate-1 false 38
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.021
+!MESSAGE Preparing classpath changed notification exercise02_1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.022
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.028
+!MESSAGE classpath=38 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.033
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX exercise02_1 false 38
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.036
+!MESSAGE Preparing classpath changed notification exercise03_1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.037
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.044
+!MESSAGE classpath=38 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.049
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX exercise03_1 false 38
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.051
+!MESSAGE Preparing classpath changed notification exercise03_2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.053
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.060
+!MESSAGE classpath=38 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.064
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX exercise03_2 false 38
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.066
+!MESSAGE Preparing classpath changed notification exercise04.1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.067
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.072
+!MESSAGE classpath=39 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.075
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX exercise04.1 false 39
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.077
+!MESSAGE Preparing classpath changed notification exercise05.1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.078
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.083
+!MESSAGE classpath=39 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.087
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX exercise05.1 false 39
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.087
+!MESSAGE Preparing classpath changed notification exercise06.1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.090
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.094
+!MESSAGE classpath=40 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.097
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX exercise06.1 false 40
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.099
+!MESSAGE Preparing classpath changed notification exercise07_1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.100
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.105
+!MESSAGE classpath=38 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.108
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX exercise07_1 false 38
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.110
+!MESSAGE Preparing classpath changed notification exerciseCustomerAddress
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.112
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.116
+!MESSAGE classpath=38 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.121
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX exerciseCustomerAddress false 38
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.123
+!MESSAGE Preparing classpath changed notification exerciseManyToManyUni
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.125
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.129
+!MESSAGE classpath=38 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.133
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX exerciseManyToManyUni false 38
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.134
+!MESSAGE Preparing classpath changed notification lab-02
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.136
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.140
+!MESSAGE classpath=39 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.144
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX lab-02 false 39
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.145
+!MESSAGE executing callback sts4.classpath.WeHkQWdX 12 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-03 19:08:47.270
+!MESSAGE executing callback sts4.classpath.WeHkQWdX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:03:52.241
+!MESSAGE Preparing classpath changed notification afbaf
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:03:52.243
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:03:52.245
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX afbaf true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:03:52.246
+!MESSAGE executing callback sts4.classpath.WeHkQWdX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:03:52.303
+!MESSAGE executing callback sts4.classpath.WeHkQWdX SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:03:52.682
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:03:52.687
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:03:59.964
+!MESSAGE Preparing classpath changed notification ea
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:03:59.966
+!MESSAGE Could not send event for project because no project location: ea
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:04:31.234
+!MESSAGE Preparing classpath changed notification 11_1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:04:31.236
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:04:31.239
+!MESSAGE classpath=24 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:04:31.241
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX 11_1 false 24
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:04:31.243
+!MESSAGE executing callback sts4.classpath.WeHkQWdX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:04:31.248
+!MESSAGE executing callback sts4.classpath.WeHkQWdX SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:04:31.534
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:04:31.538
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:04:56.816
+!MESSAGE Preparing classpath changed notification 11_1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:04:56.818
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:04:56.821
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX 11_1 true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:04:56.822
+!MESSAGE executing callback sts4.classpath.WeHkQWdX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:04:56.826
+!MESSAGE executing callback sts4.classpath.WeHkQWdX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:05:21.370
+!MESSAGE Preparing classpath changed notification exercise11_1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:05:21.372
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:05:21.374
+!MESSAGE classpath=24 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:05:21.377
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX exercise11_1 false 24
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:05:21.378
+!MESSAGE executing callback sts4.classpath.WeHkQWdX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:05:21.386
+!MESSAGE executing callback sts4.classpath.WeHkQWdX SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:05:21.580
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:05:21.583
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:05:37.552
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:05:37.562
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:06:06.186
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:06:06.197
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:06:24.712
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:06:24.717
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:06:40.922
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:06:40.975
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:08:01.607
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:08:01.617
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:08:23.242
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:08:23.248
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jst.jsp.core 4 4 2020-03-04 01:08:31.683
+!MESSAGE A workspace crash was detected. The previous session did not exit normally. Not using saved taglib indexes.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:09:16.391
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:09:16.396
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:10:29.859
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:10:29.865
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:10:29.977
+!MESSAGE Preparing classpath changed notification exercise11_1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:10:29.979
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:10:29.985
+!MESSAGE classpath=32 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:10:29.989
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX exercise11_1 false 32
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:10:29.992
+!MESSAGE executing callback sts4.classpath.WeHkQWdX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:10:30.035
+!MESSAGE executing callback sts4.classpath.WeHkQWdX SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:10:31.032
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:10:31.040
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:10:34.184
+!MESSAGE Preparing classpath changed notification exercise11_1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:10:34.186
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:10:34.191
+!MESSAGE classpath=32 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:10:34.195
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX exercise11_1 false 32
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:10:34.197
+!MESSAGE executing callback sts4.classpath.WeHkQWdX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:10:34.202
+!MESSAGE executing callback sts4.classpath.WeHkQWdX SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:10:34.325
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:10:34.327
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:11:19.996
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:11:20.010
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:11:48.157
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:11:48.166
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:12:26.393
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:12:26.399
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:12:46.982
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:12:46.993
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:13:23.435
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:13:23.438
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:13:38.758
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:13:38.770
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:14:06.923
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:14:06.942
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:14:20.275
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:14:20.279
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:14:29.589
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:14:29.599
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:16:27.487
+!MESSAGE Preparing classpath changed notification exercise11_2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:16:27.489
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:16:27.494
+!MESSAGE classpath=24 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:16:27.498
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX exercise11_2 false 24
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:16:27.500
+!MESSAGE executing callback sts4.classpath.WeHkQWdX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:16:27.510
+!MESSAGE executing callback sts4.classpath.WeHkQWdX SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:16:27.940
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:16:27.954
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:16:28.037
+!MESSAGE Preparing classpath changed notification exercise11_2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:16:28.039
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:16:28.044
+!MESSAGE classpath=32 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:16:28.047
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX exercise11_2 false 32
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:16:28.048
+!MESSAGE executing callback sts4.classpath.WeHkQWdX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-04 01:16:28.053
+!MESSAGE executing callback sts4.classpath.WeHkQWdX SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:16:29.301
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:16:29.317
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:16:40.048
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:16:40.053
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:17:43.847
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:17:43.850
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:18:00.050
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:18:00.055
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:18:38.439
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:18:38.443
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:20:28.955
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:20:28.959
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:23:17.778
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:23:17.788
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:23:55.086
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:23:55.092
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:31:16.795
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:31:16.806
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:31:28.098
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:31:28.107
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:32:41.440
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:32:41.448
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:35:01.817
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:35:01.825
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:35:52.804
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:35:52.809
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:43:32.068
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:43:32.072
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:44:02.607
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:44:02.617
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:45:05.890
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:45:05.894
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:45:19.296
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:45:19.303
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:45:45.559
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:45:45.563
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:46:12.344
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:46:12.350
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:46:44.272
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:46:44.283
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:48:28.049
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:48:28.053
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:48:51.076
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:48:51.081
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:49:08.120
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:49:08.123
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:49:54.624
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:49:54.627
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:50:38.543
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:50:38.550
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:51:24.610
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:51:24.618
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:51:47.847
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:51:47.851
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:51:54.232
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:51:54.238
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:52:22.521
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:52:22.528
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:52:56.830
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:52:56.836
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:54:46.111
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:54:46.116
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:54:57.686
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:54:57.690
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:55:27.358
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:55:27.365
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:56:47.294
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:56:47.298
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:56:59.588
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:56:59.595
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:57:59.636
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:57:59.639
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:58:50.036
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:58:50.044
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:59:26.283
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:59:26.290
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
