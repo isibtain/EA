@@ -4184,3 +4184,54 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2020-03-04 01:59:26.290
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-05 23:54:27.718
+!MESSAGE Preparing classpath changed notification exercise16_1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-05 23:54:27.722
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-05 23:54:27.728
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-05 23:54:27.730
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX exercise16_1 false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-05 23:54:27.731
+!MESSAGE executing callback sts4.classpath.WeHkQWdX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-05 23:54:27.795
+!MESSAGE executing callback sts4.classpath.WeHkQWdX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-05 23:54:28.568
+!MESSAGE Preparing classpath changed notification exercise16_1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-05 23:54:28.570
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-05 23:54:28.573
+!MESSAGE classpath=24 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-05 23:54:28.576
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX exercise16_1 false 24
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-05 23:54:28.579
+!MESSAGE executing callback sts4.classpath.WeHkQWdX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-05 23:54:28.589
+!MESSAGE executing callback sts4.classpath.WeHkQWdX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-05 23:55:18.514
+!MESSAGE Preparing classpath changed notification exercise16_1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-05 23:55:18.519
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-05 23:55:18.521
+!MESSAGE buffering callback sts4.classpath.WeHkQWdX exercise16_1 true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-05 23:55:18.522
+!MESSAGE executing callback sts4.classpath.WeHkQWdX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-03-05 23:55:18.544
+!MESSAGE executing callback sts4.classpath.WeHkQWdX SUCCESS [done]
